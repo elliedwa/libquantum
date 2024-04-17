@@ -1,4 +1,3 @@
-
 #define TEST_BLOCK_SOURCE                                                      \
         void FUNCTION(test, func)(void)                                        \
                                                                                \
